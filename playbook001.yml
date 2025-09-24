@@ -1,0 +1,5 @@
+---
+- task: my first playbook testing.
+- fruits: 
+   apple
+   banana
